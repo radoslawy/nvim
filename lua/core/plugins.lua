@@ -15,6 +15,12 @@ require("lazy").setup({
     'nvim-lualine/lualine.nvim',
     'nvim-tree/nvim-web-devicons',
 		'nvim-tree/nvim-tree.lua',
-		'nvim-treesitter/nvim-treesitter'
+		'nvim-treesitter/nvim-treesitter',
+		'nvim-telescope/telescope.nvim',
+		'nvim-lua/plenary.nvim',
+		'Mofiqul/dracula.nvim',
+		'williamboman/mason.nvim',
+		'williamboman/mason-lspconfig.nvim',
+		'neovim/nvim-lspconfig',
 	})
 
