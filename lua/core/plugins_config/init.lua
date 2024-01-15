@@ -5,3 +5,4 @@ require("core.plugins_config.telescope")
 require("core.plugins_config.dracula")
 require("core.plugins_config.lsp_config")
 require("core.plugins_config.cmp")
+
